@@ -3,6 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App" />
   <div>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhh</div>
   <div>wwkmikudeco</div>
+  <div>byx</div>
 </template>
 
 <script>
