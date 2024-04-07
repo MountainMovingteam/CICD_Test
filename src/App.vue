@@ -4,6 +4,7 @@
   <div>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhh</div>
   <div>wwkmikudeco</div>
   <div>byx</div>
+  <div>drq CI/CD test</div>>
 </template>
 
 <script>
